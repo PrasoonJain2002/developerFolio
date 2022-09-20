@@ -491,6 +491,51 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "SpectralGT",
+      "name": "Atharv Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78777556?v=4",
+      "profile": "https://github.com/SpectralGT",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ishan-001",
+      "name": "Ishan Khandelwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59707330?v=4",
+      "profile": "https://allishaan.co",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "slyapustin",
+      "name": "Sergey Lyapustin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/370774?v=4",
+      "profile": "https://slyapustin.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "camipozas",
+      "name": "Camila Pozas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89259499?v=4",
+      "profile": "https://www.cam1pozas.xyz/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "saiteja13427",
+      "name": "Sai Teja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40917760?v=4",
+      "profile": "https://saiteja13427.github.io",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
